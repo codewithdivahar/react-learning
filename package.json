@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/codewithdivahar/react-learning#readme",
   "devDependencies": {
-    "parcel": "^2.10.3",
-    "process": "^0.11.10"
+    "parcel": "^2.10.3"
   },
   "dependencies": {
     "react": "^18.2.0",
